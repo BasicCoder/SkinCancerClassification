@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.6.7 (sftp://yjzhang@10.141.209.21:22/home/yjzhang/anaconda3/envs/pytorch0.4.1/bin/python)" project-jdk-type="Python SDK" />
+</project>
